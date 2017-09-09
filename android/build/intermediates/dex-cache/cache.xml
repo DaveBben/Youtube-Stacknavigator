@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\David\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="A:\react_native_projects\youtube-stacknavigator\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_65482287a93374129282cc02abfc6fb7faacbb29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="A:\react_native_projects\youtube-stacknavigator\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="A:\react_native_projects\youtube-stacknavigator\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.0.1_205895b311c2a08b932c142afe428d55d64a70c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="A:\react_native_projects\youtube-stacknavigator\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_b8ff2ff3f99aa646b06b85d82ece0be2457a4475.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="A:\react_native_projects\youtube-stacknavigator\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="A:\react_native_projects\youtube-stacknavigator\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_667f4d0cfafa4df7657f12d046a55fa1e45940cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="A:\react_native_projects\youtube-stacknavigator\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_8c353fc89d4d953246b577cf36994006ee7fd95b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="A:\react_native_projects\youtube-stacknavigator\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_3d0a38cbe503dbece866e150747cb60488178d5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="A:\react_native_projects\youtube-stacknavigator\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_6cea5667fd9ed3313960abcbe9295ca8dc2b3b78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="A:\react_native_projects\youtube-stacknavigator\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.47.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="576b5113887747a7592650ae14d980e1c57983c4">
+        <dex dex="A:\react_native_projects\youtube-stacknavigator\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.47.2_b778ed04d1724ffec1aa7bae444c4819c0bcb3fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="A:\react_native_projects\youtube-stacknavigator\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_a620e22815f1a5ce8e34d6e53e51e046abb5be58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="A:\react_native_projects\youtube-stacknavigator\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="A:\react_native_projects\youtube-stacknavigator\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.0.1_15b6ae98b028524a56edbe794787eb97842892e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="A:\react_native_projects\youtube-stacknavigator\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="A:\react_native_projects\youtube-stacknavigator\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.0.1_1ed45ff51f341eaa7356142349a1c2c0f250bd62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="A:\react_native_projects\youtube-stacknavigator\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="A:\react_native_projects\youtube-stacknavigator\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.0.1_c43ac6fcfea5d7fa106b4ee349e16116771de727.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="A:\react_native_projects\youtube-stacknavigator\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="A:\react_native_projects\youtube-stacknavigator\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_2b3a28501d38dd257ce03512f988335ea90d26ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="A:\react_native_projects\youtube-stacknavigator\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="A:\react_native_projects\youtube-stacknavigator\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_7e9c5dbb5b5f3e6b538db034bed81c50f510a74e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="A:\react_native_projects\youtube-stacknavigator\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_77e4d1657f8c68d2315e18c36172fef51f7798a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="A:\react_native_projects\youtube-stacknavigator\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="A:\react_native_projects\youtube-stacknavigator\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_c771a2576764318adad722efd05c538c4b4e5dfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\David\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="A:\react_native_projects\youtube-stacknavigator\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_b7d03cf5c84a167ff7e0f7dd9c51827a05dd8413.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="A:\react_native_projects\youtube-stacknavigator\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="A:\react_native_projects\youtube-stacknavigator\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_49a05debc1f25e0f00138c768c4b9512ccde130d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="A:\react_native_projects\youtube-stacknavigator\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="A:\react_native_projects\youtube-stacknavigator\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.0.1_a9ee522bd825d107a0a503ee8693c50f2bc33250.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="A:\react_native_projects\youtube-stacknavigator\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.47.2\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="A:\react_native_projects\youtube-stacknavigator\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_6ec4c985e40c450dce275c395131c3961df43872.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="A:\react_native_projects\youtube-stacknavigator\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="A:\react_native_projects\youtube-stacknavigator\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.0.1_e6fefe5bf8ead4d354c7408fed0494e5c831ce65.jar" />
+    </item>
+
+</items>
